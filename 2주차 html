@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+<!DOCTYPE html> #ht만 써도 나옴 html:5
 <html lang="en">
-<head>
+<head>#head에는 meta태그랑 css만
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>2주차 복습</title>
