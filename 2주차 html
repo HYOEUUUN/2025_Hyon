@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2주차 복습</title>
+</head>
+<body>
+    <br><br><br><h1>3칸 내려와서 쓰여져 있는 이 글씨의 크기는 h1입니다</h1>
+    <hr>
+    <h6>html은 몇가지 규칙이 있습니다.</h6>
+    <hr>
+    <h5>시작이 있으면 끝이 있어야 합니다.<br>
+    머리와 몸통으로 나뉘고(머리에는 들어갈수 있는게 정해져 있습니다.)<br>
+    html은 구조이고, css는 꾸미는 것입니다.</h5>
+<hr><h5>자 이것만 알면 홈페이지도 금방 만듭니다. 화이팅!</h5>   
+</body>
+</html>
